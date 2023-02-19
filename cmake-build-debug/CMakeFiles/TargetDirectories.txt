@@ -1,0 +1,3 @@
+D:/FullScholarShip/BANK-NCC/cmake-build-debug/CMakeFiles/BANK_NCC.dir
+D:/FullScholarShip/BANK-NCC/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/FullScholarShip/BANK-NCC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
